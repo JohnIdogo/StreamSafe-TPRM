@@ -17,7 +17,7 @@ A hands-on TPRM lifecycle project simulating vendor risk oversight for a media-s
 |-------|-----------------------------------------|-------|------------------|
 | Phase 1 | Planning & Risk Assessment             | Vendor classification, stakeholder alignment | [Vendor Classification Chart](./Phase-1/Vendor_Classification_Chart.xlsx), [Stakeholder Alignment Sheet](./Phase-1/Stakeholder_Alignment_Sheet.xlsx) |
 | Phase 2 | Governance Setup                       | Charter & risk domain definition              | [TPRM Charter](./Phase-2/StreamSafe_TPRM_Charter.docx),  [📊 Risk Area Map](./Phase-2/risk%20area%20map.png) |
-| Phase 3 | Due Diligence                          | Vendor assessments and scoring                | Coming Soon |
+| Phase 3 | Due Diligence                          | Vendor assessments and scoring                | [Due Diligence Checklist](./Phase-3/Due_Diligence_Checklist.xlsx), [Vendor Scorecard](./Phase-3/Vendor_Scorecard.xlsx) | 
 | Phase 4 | Risk Treatment & Contract Controls     | IP protection and compliance controls         | Coming Soon |
 | Phase 5 | Monitoring & Performance               | Compliance KPIs and red/yellow/green tracker  | Coming Soon |
 | Phase 6 | Closure & Exit                         | Final report and executive presentation       | Coming Soon |
@@ -28,6 +28,7 @@ Start with the 👉 [StreamSafe TPRM Charter](./Phase-2/StreamSafe_TPRM_Charter.
 Then explore:
 - **Phase 1** for vendor classification and stakeholder mapping
 - **Phase 2** for risk domains and project governance
+- **Phase 3** for due diligence checklists and vendor scorecards
 More phases will be added as the simulation progresses.
 
 ---
