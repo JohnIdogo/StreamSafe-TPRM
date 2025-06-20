@@ -28,7 +28,7 @@ Start with the 👉 [StreamSafe TPRM Charter](./Phase-2/StreamSafe_TPRM_Charter.
 Then explore:
 - **Phase 1** for vendor classification and stakeholder mapping
 - **Phase 2** for risk domains and project governance
-- **Phase 3** for due diligence checklists and vendor scorecards
+- **Phase 3** for due diligence checklists and vendor scorecards.
 More phases will be added as the simulation progresses.
 
 ---
